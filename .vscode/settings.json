@@ -1,0 +1,16 @@
+{
+  "editor.fontSize": 18,
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    "html",
+    "vue"
+  ]
+}
